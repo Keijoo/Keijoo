@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Keijoo
+- 👀 I’m interested in coding and developing programs, specifically virtual reality!
+- 🌱 I’m currently learning unity and more html code
+- 📫 How to reach me:
+- email: keinanjohnnyjones@live.co.uk
