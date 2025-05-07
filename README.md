@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Keijoo
-- 👀 I’m interested in coding and developing programs, specifically virtual reality!
-- 🌱 I’m currently learning unity and more html code
+- 👀 I’m interested in coding and developing programs, specifically Web Design
+- 🌱 I’m currently learning unreal engine and more web design
 - 📫 How to reach me:
-- email: keinanjohnnyjones@live.co.uk
+- email: keinanjohnjones@gmail.com
+  
